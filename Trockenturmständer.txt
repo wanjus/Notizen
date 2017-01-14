@@ -1,0 +1,6 @@
+Fundort	Marke	Preis	Versand	Etagen	Maße	Trockenlänge	Gewicht
+Bader	 -	99,00 €		4	70x70x170	35 m
+Fonq	Leifheit 450	40,76 €	5,95 €	4	176x69x69	45 m
+Otto	Leifheit 450	49,99 €	5,95 €	4	176x69x69	45 m
+Otto	Alpina 40	39,99 €		4	68x68x155		4,90 kg
+Hagebaumarkt	Alpina 40	39,99 €		4	68x68x155		4,90 kg
